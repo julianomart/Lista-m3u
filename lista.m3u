@@ -1,3 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2" tvg-logo="" group-title="Filmes",A Hora do Rush 2
-https://fin-3dg-b1.i8yz83pn.com/hls2/03/10622/sp2ai3n1of3p_h/master.m3u8?t=Agp6M7QT7b-XTx_CPt6FmiXVS_E-TdOK_nyD49s1U1E&s=1768533919&e=10800&f=53110853&srv=1050&asn=271361&sp=4000&p=0
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Canais Abertos",SBT
+https://dlnmh9ip6v2xcxz.cloudfontes.net/sbt.m3u8
+
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP" group-title="Canais Abertos",Globo SP
+https://dlnmh9ip6v2xcxz.cloudfontes.net/globosp.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record TV" group-title="Canais Abertos",Record TV
+https://dlnmh9ip6v2xcxz.cloudfontes.net/pre1.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV
+https://dlnmh9ip6v2xcxz.cloudfontes.net/redetv.m3u8
+
+#EXTINF:-1 tvg-id="Sportv" tvg-name="Sportv" group-title="Esportes",Sportv
+https://dlnmh9ip6v2xcxz.cloudfontes.net/sportv.m3u8
+
+#EXTINF:-1 tvg-id="Sportv2" tvg-name="Sportv 2" group-title="Esportes",Sportv 2
+https://02.arlivre.online/sportv2/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=8798a126c66bcbd703b62f530012ed56bcf02237-6551b327fb18ee22165ec5ba8e767709-1768541125-1768537525
+
+#EXTINF:-1 tvg-id="Sportv3" tvg-name="Sportv 3" group-title="Esportes",Sportv 3
+https://02.arlivre.online/sportv3/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=a9cb67cafe137bafec860d381c217cf4d58c597e-53a49cc9f6dca4921debd16e4297751a-1768541152-1768537552
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" group-title="Esportes",Premiere
+https://dlnmh9ip6v2xcxz.cloudfontes.net/pre1.m3u8
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="Filmes e Séries",Space
+https://dlnmh9ip6v2xcxz.cloudfontes.net/space.m3u8
+
+#EXTINF:-1 tvg-id="CazéTV" tvg-name="CazéTV" group-title="Esportes",CazéTV
+https://dlnmh9ip6v2xcxz.cloudfontes.net/cazetv.m3u8
